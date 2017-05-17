@@ -10,5 +10,4 @@ This repository contains the following algorithms of machine learning:
 * __Kmeans Clustering__, centroid estimation, used to compress an image;
 * __Anomaly Detection__, detection of server failures on a network.
 
-Every folder has a ".pdf" that describes each algorithm.
-Matlab R2016a was used for every algorithm.
+Every folder has a ".pdf" that describes each algorithm. Matlab R2016a was used for every algorithm.
